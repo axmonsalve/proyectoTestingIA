@@ -59,6 +59,3 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull re
 
 Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
 
----
-
-Esta descripción proporciona una visión general completa del proyecto, sus características, las tecnologías utilizadas, y los pasos para la instalación y ejecución. Puedes adaptarla según necesites.
